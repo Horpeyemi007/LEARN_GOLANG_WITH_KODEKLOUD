@@ -10,7 +10,7 @@ Data type in `Go` consist of the following
 - `Arrays & Slices`: [1,2,3,4], ["foo, "bar"]
 - `Maps`: “x” -> 30
 
-Data types ate need in `GO` for
+Data types are needed in `GO` for
 
 - categorizing a set of related values
 - describing the operations that can be done on them
