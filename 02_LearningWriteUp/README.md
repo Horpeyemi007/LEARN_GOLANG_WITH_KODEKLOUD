@@ -15,3 +15,5 @@ Data types are needed in `GO` for
 - categorizing a set of related values
 - describing the operations that can be done on them
 - describing the way the data is stored
+
+Also, GO has a concept of types that is either explicitly declared by a programmer or is inferred by the compiler.
